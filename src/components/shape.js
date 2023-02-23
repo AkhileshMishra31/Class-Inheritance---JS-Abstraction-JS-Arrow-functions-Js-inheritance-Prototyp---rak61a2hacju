@@ -1,3 +1,4 @@
+// declare class
 class Shape{
     constructor(name){
        this.name;
@@ -18,3 +19,5 @@ class Shape{
     
 }
 module.exports = Shape;
+
+// export class using module.exports
